@@ -12,6 +12,8 @@ This is a simple, dark-themed landing page for a Food Festival.
     CSS3
 
 📸 How it looks
-https://github.com/Sairabanu11/FoodFest/tree/main
+![event](https://github.com/user-attachments/assets/59c9e03a-0358-483f-bd73-5016ffeaf0d6)
+
+
     
                                           
