@@ -1,4 +1,4 @@
-                                                   Street Food Festival Event Page
+                                                
 ![event](https://github.com/user-attachments/assets/59c9e03a-0358-483f-bd73-5016ffeaf0d6)
 
 
